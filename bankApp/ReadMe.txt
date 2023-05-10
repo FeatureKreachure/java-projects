@@ -12,4 +12,4 @@ TO RUN:
 NB!!!
 NOT INCLUDED: datatype verification.
 Inputs in menu's should be single-digit int's (1, 2, 3, etc...)
-Program isn't made to handle invalid datatyles (eg: String when it expects an int)
+Program isn't made to handle invalid datatypes (eg: String when it expects an int)
